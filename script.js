@@ -74,6 +74,6 @@ navItems.forEach(link => {
   // تحميل المقالات عند تحميل الصفحة
   window.onload = fetchArticles;
 
-  console.log(menuToggle, navLinks); // تحقق إذا كانت العناصر موجودة
+ 
 
 
